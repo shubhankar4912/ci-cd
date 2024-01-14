@@ -5,5 +5,6 @@
   },
   "scripts": {
     "start": " node index.js"
+    "stop": "echo 'Stop script not defined'"
   }
 }
